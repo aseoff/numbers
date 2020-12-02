@@ -1,8 +1,8 @@
 ## Identifying Information: 
-1. Name: 
-2. Student ID: 
-3. Email: 
-4. Class: 
+1. Name: Jesse Aseoff
+2. Student ID: 2342031
+3. Email: aseoff@chapman.edu
+4. Class: Sophomore
 5. Assignment: numbers 
 
 ## Application Purpose
